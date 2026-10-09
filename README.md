@@ -49,3 +49,7 @@ Only aggregate results are included in this public repository. Raw posts and acc
 ## License
 
 No open-source license is included. Without a license, the code may be viewed but is not automatically granted reuse rights.
+
+## AI-disclosure
+
+Used solely for debugging assistance and subject-matter learning. All final implementation and code authorship are entirely my own.

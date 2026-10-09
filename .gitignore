@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+
+# Local configuration and credentials
+.env
+.env.*
+*.secret
+secrets.*
+
+# Private/raw corpus files
+data/raw/*
+!data/raw/README.md
+media_corpus.xlsx
+media_corpus_checkpoint.csv
+corpus_analysis/token_level_analysis.csv
+
+# Generated local output that may contain row-level identifiers
+results/token_level_analysis.csv
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

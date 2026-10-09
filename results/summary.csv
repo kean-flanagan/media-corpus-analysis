@@ -1,0 +1,12 @@
+metric,value
+total_tweets,26395
+tweets_Q1_2025,13242
+tweets_Q1_2026,13153
+unique_users,23375
+bot_candidates,3149
+blue_verified,6066
+avg_likes_2025,43.01
+avg_likes_2026,51.2
+slang_tokens,2004
+total_tokens_analysed,433395
+test_column_used,Likes
